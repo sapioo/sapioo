@@ -5,10 +5,10 @@
 ---
 
 ### Me
-<p align="center'>
-![DIY Electronics](https://img.shields.io/badge/DIY%20Electronics-2E8B57?style=for-the-badge)
-![Embedded](https://img.shields.io/badge/Embedded-4682B4?style=for-the-badge)
-![Photography](https://img.shields.io/badge/Photography-708090?style=for-the-badge)
+<p align="center">
+<img src="https://img.shields.io/badge/DIY%20Electronics-2E8B57?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Embedded-4682B4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Photography-708090?style=for-the-badge"/>
 <a href="https://www.chess.com/member/PromisingSushi" target="_blank">
   <img src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
 </a>
