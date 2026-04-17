@@ -5,14 +5,18 @@
 ---
 
 ### Me
-- Electronics & Coding  
-- Builds random interesting stuff
-<img src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
+<p align="center'>
+![DIY Electronics](https://img.shields.io/badge/DIY%20Electronics-2E8B57?style=for-the-badge)
+![Embedded](https://img.shields.io/badge/Embedded-4682B4?style=for-the-badge)
+![Photography](https://img.shields.io/badge/Photography-708090?style=for-the-badge)
+<a href="https://www.chess.com/member/PromisingSushi" target="_blank">
+  <img src="https://img.shields.io/badge/Chess.com-81B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white"/>
+</a>
 <img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white"/>
-
+</p>
 
 ### Tech
-<p>
+<p align="center">
 <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white"/>
 <img src="https://img.shields.io/badge/micropython-%232B2728.svg?style=for-the-badge&logo=micropython&logoColor=white"/>
