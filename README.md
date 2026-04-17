@@ -19,13 +19,13 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 ### Skills
-- Photography
-- Chess
-- Pixel Art
+![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?style=for-the-badge&logo=chessdotcom&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 
 
-### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=sapioo&show_icons=true&theme=dark"/>
+### Stats
+[![GitHub Streak](https://streak-stats.demolab.com?user=sapioo&theme=dark&hide_border=true)](https://git.io/streak-stats)
 
 </td>
 </tr>
